@@ -1,0 +1,11 @@
+[alias]
+	a= add
+	st= status
+	cm= commit -m
+	co= checkout
+	br= branch
+[user]
+	name = GuillaumeLempereur
+	email = guillaume.lempereur@hotmail.com
+[push]
+	default = simple
